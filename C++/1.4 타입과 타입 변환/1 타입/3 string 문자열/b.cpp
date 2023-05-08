@@ -26,6 +26,7 @@ int main(){
 
     // string substr (size_t pos = 0, size_t len = npos) const;
     cout << a.substr(5,2) << '\n';
+    cout << a << '\n';
 
     return 0;
 
